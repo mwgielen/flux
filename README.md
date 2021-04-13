@@ -178,8 +178,8 @@ Take a look at the [`fluxcd/helm-operator`](https://github.com/fluxcd/helm-opera
 As Flux is Open Source, integrations are very straight-forward. Here are
 a few popular ones you might want to check out:
 
-- [Manage a multi-tenant cluster with Flux and Kustomize](https://github.com/fluxcd/multi-tenancy)
-- [Managing Helm releases the GitOps way](https://github.com/fluxcd/helm-operator-get-started)
+- [Manage a multi-tenant cluster with Flux and Kustomize](https://github.com/fluxcd/flux2-multi-tenancy)
+- [Managing Helm releases the GitOps way](https://github.com/fluxcd/flux2-kustomize-helm-example)
 - [OpenFaaS GitOps workflow with Flux](https://github.com/stefanprodan/openfaas-flux)
 - [GitOps for Istio Canary deployments](https://github.com/stefanprodan/gitops-istio)
 - [Fluxcloud to receive events from Flux](https://github.com/topfreegames/fluxcloud)
